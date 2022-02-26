@@ -1,5 +1,8 @@
 # s3-sync-action
 forked (manually-copied) from https://github.com/jakejarvis/s3-sync-action
+### This is not used actively, these files are embedded in to the desired project where we want files uploaded to an s3 bucket.
+### Currently the Cloud Resume Challenge project contains thee files slightly tweaked in order to upload the html and css files
+### to my AWS S3 bucket when any changes are pushed to the repo, using the Github Workflow to trigger this.
 
 # GitHub Action to Sync S3 Bucket 🔄
 
